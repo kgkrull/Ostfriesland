@@ -1,17 +1,16 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"unitType": "Siege",
+		"uniqueTo": "Ostriesland",
+		"movement": 5,
+		"strength": 300,
+		"rangedStrength": 150,
+		"range": 4,
+		"cost": 50,
+		"promotions": ["Indirect Fire"],
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack", "[+3] Sight"],
 		"attackSound": "phasers"
 	}
 ]
