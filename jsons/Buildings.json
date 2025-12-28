@@ -4,12 +4,12 @@
 		"uniqueTo": "Ostfriesland",
 		"cost": 4,
 		"happiness": 42,
-		"culture": 42,
-		"science": 42,
+		"culture": 10,
+		"science": 5,
 		"production": 42,
-		"food": 42,
+		"food": 12,
 		"gold": 42,
-		"uniques": ["Destroyed when the city is captured", "New [Military] units start with [15] XP [in this city]"]
+		"uniques": ["Destroyed when the city is captured", "New [Military] units start with [75] XP [in this city]"]
 	},
 	{
 		"name": "Breeders",
